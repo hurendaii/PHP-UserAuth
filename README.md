@@ -10,29 +10,6 @@ This project is a simple PHP-based web application that provides a user authenti
 - Input validation
 - Responsive design
 
-## Project Structure
-
-MyWebsite/
-├── index.php
-├── includes/
-│ ├── login.inc.php
-│ ├── login_contr.inc.php
-│ ├── login_model.inc.php
-│ ├── login_view.inc.php
-│ ├── signup.inc.php
-│ ├── signup_contr.inc.php
-│ ├── signup_model.inc.php
-│ ├── signup_view.inc.php
-│ ├── config_sessions.inc.php
-│ ├── logout.inc.php
-│ └── dbh.inc.php
-├── css/
-│ ├── main.css
-│ └── reset.css
-└── js/
-└── script.js
-
-
 ## Installation
 
 1. **Clone the repository:**
@@ -67,11 +44,11 @@ Go to the Signup section and fill out the registration form.
 4. **Login with an existing user:**
 Go to the Login section and enter your credentials.
 
-**Contributing**
-If you would like to contribute to this project, please fork the repository and submit a pull request. We welcome all contributions that improve the functionality or security of the application.
+**Contributing:**
+ If you would like to contribute to this project, please fork the repository and submit a pull request. We welcome all contributions that improve the functionality or security of the application.
 
-**Contact**
-For any questions or issues, please open an issue on GitHub or contact the project maintainer at shackj03@gmail.com
+**Contact:**
+ For any questions or issues, please open an issue on GitHub or contact the project maintainer at shackj03@gmail.com
 
 
 
