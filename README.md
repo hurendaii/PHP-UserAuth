@@ -38,15 +38,18 @@ MyWebsite/
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/hurendaii/PHP-UserAuth.git
+   
 2.  **Navigate to the project directory:**
 cd MyWebsite
 
 3. **Set up your web server:**
 - If you are using XAMPP, place the MyWebsite folder in the htdocs directory.
 - If you are using another web server, ensure the project directory is accessible.
+
 4. **Create a MySQL database:**
 - Create a new database named mywebsite.
 - Import the provided SQL file to set up the necessary tables.
+
 6. **Update database configuration:**
 - Open includes/dbh.inc.php and update the database connection parameters (host, username, password, database name).
 
@@ -54,10 +57,13 @@ cd MyWebsite
 1. **Start your web server:**
 For XAMPP, start Apache and MySQL.
 For other servers, ensure they are running.
+
 2. **Access the application:**
-Open your web browser and navigate to http://localhost/MyWebsite (or the appropriate URL for your server setup).
+Open your web browser and navigate to http://localhost/MyWebsite.
+
 3. **Register a new user:**
 Go to the Signup section and fill out the registration form.
+
 4. **Login with an existing user:**
 Go to the Login section and enter your credentials.
 
